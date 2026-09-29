@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Galgoladrice</string>
+    <string name="result_label">0</string>
+    <string name="button_label_plus">+</string>
+    <string name="button_label_minus">-</string>
+    <string name="button_label_division">/</string>
+    <string name="button_label_times">*</string>
+    <string name="text_num1"></string>
+    <string name="text_num2"></string>
+    <string name="text_num1_hint_message">Inserisci il primo numero</string>
+    <string name="text_num2_hint_message">Inserisci il secondo numero</string>
+</resources>
