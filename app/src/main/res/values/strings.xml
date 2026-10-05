@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Galgoladrice</string>
-    <string name="result_label">0</string>
+    <string name="result_label">= </string>
     <string name="button_label_plus">+</string>
     <string name="button_label_minus">-</string>
     <string name="button_label_division">/</string>
